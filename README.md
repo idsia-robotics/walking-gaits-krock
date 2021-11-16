@@ -15,4 +15,3 @@ Traversability maps on the Aletsch glacier map for the low and high gaits.
 ![traversability-maps-aletsch](aletsch-trav-gait-comparison.png)
 
 
-
