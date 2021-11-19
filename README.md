@@ -1,7 +1,9 @@
 ## Supplementary media for Gait-dependent Traversability Estimation on the k-rock Robot paper
 
 
-https://user-images.githubusercontent.com/1706287/142643168-b9aa078f-9d73-41a2-9e8e-bcaa509d352a.mp4
+
+https://user-images.githubusercontent.com/1706287/142643814-1a6a2053-fea1-4129-bf2b-3503978cf7d1.mp4
+
 
 
 ### k-rock2 platform
