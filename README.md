@@ -13,14 +13,18 @@ The k-rock2 platform is an amphibious sprawling posture robot with multimodal lo
 
 
 
-### Aletsch glacier elevation map.
+### Aletsch glacier elevation map
 
 ![aletsch](aletsch-sensefly-elevation.png)
 
-### Traversability maps on the Aletsch glacier map for the low and high gaits. 
+
+
+### Traversability maps on the Aletsch glacier map for the low and high gaits
 
 ![traversability-maps-aletsch](aletsch-trav-gait-comparison.png)
 
-### Results on the gait selection approach.
+
+
+### Results on the gait selection approach
 
 ![gait-selectio-approach](gait_selection_scheme.png)
